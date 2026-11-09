@@ -5,7 +5,7 @@ A smart computer vision project utilizing YOLOv8 for real-time object detection 
 ## Detection Result
 
 <p align="center">
-  <img src="اسم_صورة_النتيجة_هنا.jpg" alt="Object Detection Output" width="600"/>
+  <img src="detection_result.png" alt="Object Detection Output" width="600"/>
 </p>
 
 ## Project Overview
